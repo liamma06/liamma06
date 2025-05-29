@@ -1,7 +1,7 @@
 # Hi, I'm Liam👋
 ### About 
 - 19 
-- currently studying @ Western Engineering
+- studying @ Western Engineering
 - currently exploring web development and ml
 
 ### Projects:
