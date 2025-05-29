@@ -1,4 +1,4 @@
-# Hi, I'm Liam Ma👋
+# Hi, I'm Liam👋
 ### About 
 - 19 
 - currently studying @ Western Engineering
