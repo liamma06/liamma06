@@ -14,7 +14,7 @@
 *I add reflections and thoughts to every repo — feel free to follow along my journey.*
 
 ### Let's Connect:
-» [Personal Website](https://liamma.com)  
+» [Personal Website](https://liamma.com) (Check out the project demos!!) 
 » [Email Me!](mailto:liam.jbr.ma@gmail.com)  
 » [Linkedin](https://www.linkedin.com/in/liam-tl)  
 » [X](https://x.com/LiamMa6_)  
