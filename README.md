@@ -4,7 +4,7 @@
 - studying Engineering @ western
 - currently exploring web development, systems, and AI
 
-### Projects(Check out demos on personal website !!):
+### Projects (Check out demos on personal website !!):
 - **WE Wrapped** – help track progression and overall statistics through first year engineering 
 - **Project Pal** – helps users turn vague app ideas into unique concepts using self-validating AI
 - **mornings with lebron** – prototype journaling app with ai emotional insights
