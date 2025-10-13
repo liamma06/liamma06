@@ -9,7 +9,7 @@
 - **Project Pal** – helps users turn vague app ideas into unique concepts using self-validating AI
 - **mornings with lebron** – prototype journaling app with ai emotional insights
 - **ASKQL** - sql and natural language on uploaded csv
-- **Coming soon**-tyring to learn more about building systems + ai stuff 
+- **Coming soon**-trying to learn more about building systems + ai stuff 
   
 *I add reflections and thoughts to every repo — feel free to follow along my journey.*
 
